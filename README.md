@@ -1,72 +1,95 @@
-# Hi, I'm Komal 👋
+# Hi, I'm Komal Rafique 👋
 
-### AI/ML Enthusiast | Computer Science Student | Aspiring AI Engineer
+### Computer Science Student | AI/ML Enthusiast | Aspiring AI Engineer
 
-I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, Computer Vision, and building practical software solutions. I enjoy exploring AI technologies, developing AI-powered applications, and learning how intelligent systems can address real-world challenges.
+I'm a Computer Science student interested in Artificial Intelligence, Machine Learning, Computer Vision, Natural Language Processing, and human-centered AI systems.
 
-🎯 **Current Focus:** Machine Learning, Computer Vision, Emotion Recognition, and AI-powered applications.
+I enjoy building practical software projects that combine AI technologies with real-world applications. My current focus is strengthening my technical foundations, developing reliable AI-powered applications, and building research-oriented projects for graduate study.
+
+- 🔭 **Current Focus:** AI/ML applications, intelligent document processing, emotion-aware systems, and AI-powered automation.
+- 🎓 **Academic Goal:** Pursue graduate studies in Computer Science, with a focus on AI-related research.
+- 🌱 **Currently Learning:** Machine Learning, RAG systems, AI application engineering, and research methodology.
+- 🤝 **Interested In:** Research collaboration, meaningful open-source projects, and AI/ML learning opportunities.
 
 ## 🛠️ Technical Skills
 
 - **Programming Languages:** Python, C, C++, C#, Java, JavaScript
-- **Web Development:** HTML, CSS
-- **AI/ML Interests:** Machine Learning, Deep Learning, Computer Vision, Emotion Recognition, Natural Language Processing
-- **Backend Development:** Python, Flask
-- **Databases:** SQLite, SQLAlchemy
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook
-- **AI Integration:** Working with pretrained models and AI APIs
+- **Web Technologies:** HTML, CSS, JavaScript, React, TypeScript
+- **Backend Development:** Python, Flask, FastAPI
+- **AI/ML:** Machine Learning, Deep Learning fundamentals, Computer Vision, NLP, Emotion Recognition
+- **AI Engineering:** Pretrained models, AI APIs, Retrieval-Augmented Generation (RAG), evidence-grounded document processing
+- **Databases & ORM:** SQLite, SQLAlchemy
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ## 🚀 Featured Projects
 
-### 1. AI-Based Anxiety Detection System Using Computer Vision
+### 1. DocuMind AI — Intelligent Document Understanding
 
-An AI/ML project focused on exploring computer vision techniques for anxiety-related detection.
+An AI-powered document intelligence platform focused on extracting useful information from documents, evidence-grounded question answering, and CV-to-job matching.
 
-🔗 [View Project Repository](https://github.com/komalcoder357/AI-Based-Anxiety-Detection-System-Using-Computer-Vision)
+**Key areas:**
+- Document ingestion and processing for supported file formats
+- Retrieval-Augmented Generation (RAG) with source-grounded answers and citation validation
+- CV analysis against job criteria and evidence-based candidate comparison
+- Document and workspace isolation, authentication, and access controls
+
+**Technologies:** Python, FastAPI, React, TypeScript, RAG, AI/ML tooling.
+
+🔗 [View Repository](https://github.com/komalcoder357/documind-ai)
 
 ### 2. AURA — AI Emotional Support Assistant
 
-An AI project in development that explores emotion-aware conversations, text emotion classification, supportive responses, user-controlled memory, and voice interaction.
+An AI project exploring emotion-aware conversations and supportive responses using text emotion classification and conversational context. The project also explores user-controlled interaction features and AI-assisted emotional support.
 
 **Technologies:** Python, Flask, Hugging Face Transformers, Gemini API, JavaScript, SQLite.
 
-🔗 [View AURA Repository](https://github.com/komalcoder357/AURA)
+🔗 [View Repository](https://github.com/komalcoder357/AURA)
+
+*Note: AURA is an experimental support tool, not a medical diagnostic system.*
 
 ### 3. AETHERA — AI Cinematic Video Engine
 
-An AI-powered video generation project in development, focused on connecting storytelling, scene planning, character consistency, image generation, and video-generation workflows.
+An AI video-generation project exploring how storytelling, scene planning, character and location consistency, image generation, motion generation, and audio can be connected in a cinematic production pipeline.
 
-The goal is to explore how different AI components can work together in a cinematic storytelling pipeline.
+The goal is to build a modular workflow that coordinates multiple AI components to transform a story concept into a short cinematic video.
 
-## 📚 Research Interests
+**Focus Areas:** AI workflow orchestration, generative AI, image-to-video pipelines, and component integration.
+
+### 4. AI-Based Anxiety Detection Using Computer Vision
+
+A computer vision project exploring AI-based analysis of visual signals in the context of anxiety-related research.
+
+🔗 [View Repository](https://github.com/komalcoder357/AI-Based-Anxiety-Detection-System-Using-Computer-Vision)
+
+*This project should not be interpreted as a clinically validated anxiety detector.*
+
+## 🔬 Research Interests
 
 - Artificial Intelligence and Machine Learning
-- Computer Vision and Emotion Recognition
-- Deep Learning and Natural Language Processing
-- Human-Centered AI
-- Emotion-Aware AI Systems
-- AI-Powered Applications
+- Computer Vision and Deep Learning
+- Natural Language Processing
+- Emotion-Aware and Human-Centered AI
+- Retrieval-Augmented Generation and Intelligent Document Systems
+- Generative AI and AI Workflow Orchestration
 
-## 🌱 Currently Learning
+## 📚 Current Learning Goals
 
-- Machine Learning and Deep Learning
-- AI Application Development
-- AI Agents and Workflow Automation
-- Research Methodology and Experimental Evaluation
-- Software Engineering and Web Development
+- Strengthen machine learning and deep learning foundations
+- Improve software engineering and AI system design
+- Develop reproducible experiments and evaluation methods
+- Learn academic research and scientific writing
+- Build reliable, evidence-grounded AI applications
 
-## 🎯 Career Goals
+## 🎯 Long-Term Goal
 
-My goal is to strengthen my foundations in Artificial Intelligence and Computer Science, build meaningful AI/ML projects, develop research skills, and pursue opportunities for advanced studies and research in AI-related fields.
-
-I'm particularly interested in exploring intelligent systems that combine machine learning, practical engineering, and human-centered design.
+My long-term goal is to pursue advanced studies in Computer Science and contribute to AI research through technically sound projects, careful experimentation, and responsible development of intelligent systems.
 
 ## 🤝 Connect With Me
 
 - **GitHub:** [@komalcoder357](https://github.com/komalcoder357)
 
-I'm open to learning opportunities, research discussions, collaborative projects, and opportunities to grow in Artificial Intelligence and Computer Science.
+I'm open to research discussions, collaborative learning, and opportunities to contribute to Artificial Intelligence and Computer Science projects.
 
 ---
 
-⭐ *Always learning, building, and exploring the possibilities of AI.*
+⭐ *Learning, building, and exploring the possibilities of AI — one project at a time.*
